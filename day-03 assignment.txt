@@ -1,0 +1,22 @@
+For LOOP:
+For loop is used to run the same code over and over again. Each time it runs it print different data. It helps to minimize the code.
+
+var numbers = [ 10, 20, 30, 40, 50] 
+for (var i=0; i < numbers.length; i++) {
+   console.log(numbers[i])
+}
+
+For in loop:
+The for in loop iterates over a person object. The for-in statement iterates over all enumerable properties of an object that are keyed by strings  including inherited enumerable properties.
+
+const object = { a: 1, b: 2, c: 3 };
+for (const property in object) {
+  console.log(object[property]);
+}
+
+For Of Loop
+The JavaScript for of statement loops through the values of an iterable object.
+
+For Each Loop.
+
+The forEach() method calls a function (a callback function) once for each array element.

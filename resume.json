@@ -1,0 +1,41 @@
+{
+    "version": 1,
+    "basics": {
+      "name": "Akash Kumar",
+      "label": "programmer",
+      "picture": "",
+      "email": "akashsai1999@gmail.com",
+      "phone": "9003057316",
+      "degree": "B.Tech-IT",
+      "website": "",
+      "summary": "",
+      "highlights": null,
+      "location": {
+        "address": "1/205A Pillaiyar Kovil St,Manapakkam",
+        "postalCode": "600125",
+        "city": "Chennai",
+        "countryCode": "India",
+        "region": "Tamil Nadu"
+      },
+    },
+    "workLabel": "",
+    "additionalWorkLabel": "",
+    "education": [
+      {
+        "institution": "Saveetha University",
+        "area": "Information Technology",
+        "studyType": "Bachelor",
+        "startDate": "Aug-2017",
+        "endDate": "Sep-2021",
+        "gpa": "7"
+      }
+    ],
+    "skills": [{
+      "name": "HTM,CSS,JS",
+      "level": "Beginner"
+    }],
+    "languages": [{
+      "language": "English, Tamil",
+      "fluency": "Good"
+    }],
+  }
